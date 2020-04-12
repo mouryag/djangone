@@ -1,0 +1,2 @@
+# djangone
+my django projects
