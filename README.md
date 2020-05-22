@@ -1,2 +1,2 @@
 # djangone
-my django project on agri based product shop.
+my django project on agriculture based product shop.
